@@ -83,6 +83,6 @@
 # UML Diagrams:
 ## Class Diagram:
 (классы наследники абстрактных не отображены, так как логика та же, а их очень много)
-![](MLClassDiagram.drawio-2.png)
+![](10.png)
 ## Use Case:
 ![]()
